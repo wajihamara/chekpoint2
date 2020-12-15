@@ -1,0 +1,215 @@
+
+
+body{
+    padding:200px;
+    padding-top: 0;
+}
+h1{
+    color:green;
+    margin-top: 0px;
+}
+h2{
+    font-size: 2.125rem;
+    color: #00b39b;
+    
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.az{
+    display:flex;
+    align-items: center;
+}
+.img2{
+    margin-top: -20px;
+}
+.my{
+ 
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 35px;
+}
+.cont{
+    display:flex;
+    padding-right: 100px;
+    flex-direction: row-reverse;
+    
+    
+    
+}
+.bar{
+    padding:15px ;
+
+    
+    
+}
+.cent{
+    text-align: center;
+    
+}
+
+.col1:hover{
+    color:green;
+}
+.col2{
+color: green;
+}
+
+.fl{
+    display:flex;
+}
+.fl p{
+    padding:20px;
+}
+
+.foot{
+display: flex;
+justify-content: space-between;
+
+}
+
+.esp p{
+    padding-right:200px ;
+   
+    
+}
+.esp1{
+    border:1px solid;
+    width: 350px;
+    height: 300px;
+ color: #fff;
+ 
+
+    
+   
+}
+.esp1 p{
+    padding-right: 30px;
+
+}
+.esp2{
+    background: #3d83df
+}
+.esp3{
+    background: #00ccb1;
+}
+.esp4{
+    background: #1b2734;
+}
+
+.element{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+margin-right: 25px;
+width: 170px;
+}
+#domain-switcher{
+border: none;
+text-decoration: underline;
+
+
+
+}
+#si{
+    font-size: 1.625em;
+    font-weight: 400;
+    padding-top: 50px;
+    padding-left: 30px;
+    
+    margin: .3em 0;
+    font-family: Work Sans,Arial,sans-serif;
+    letter-spacing: -.3px;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    display: block;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: #fff;
+}
+#si1{
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    padding-left: 25px;
+    color: #fff;
+   
+}
+.brands{
+    display: flex;
+    justify-content: space-between;
+
+}
+.log{
+
+    
+    width: 750px;
+    height: 300px;
+   
+}
+.log1{
+    display:flex;
+    justify-content: space-between;
+
+    
+}
+.log2{
+    display:flex;
+    justify-content: space-between;
+
+}
+li{
+    list-style-type: none;
+    
+}
+.log2 li{
+    margin-top: 25px;
+    
+}
+.rb{
+    font-size: 1.625em;
+    color: #00b39b;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 50;
+}
+
+
+
+
+.stats{
+    display: flex;
+    background: #00b39b; ;
+}
+.col-2{
+    display: flex;
+}
+.pla{
+    margin-top: 50px;
+}
+.col-2 {
+    margin-left: 250px;
+}
+.officheader{
+max-width: 460px;
+    margin: 0 auto 4.1875rem;
+    font-size: .875em;
+    text-align: center;}
+    .btnsmall{
+        padding-left: 250px;
+    }
+   
+    }
+
+
+
+
+
+
+
+
+background transparon
+bordor non     / underline
